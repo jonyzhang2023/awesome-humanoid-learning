@@ -118,6 +118,9 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 - [**IEEE-RAL**] Learning Natural Locomotion Behaviors for Humanoid Robots Using Human Bias. [[paper](https://ieeexplore.ieee.org/document/8990011)]
 
+
+- [**3DV**] Grasping Field: Learning Implicit Representations for Human Grasps [[paper](https://arxiv.org/pdf/2008.04451.pdf)]
+
 ### 2019
 
 
