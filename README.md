@@ -116,7 +116,7 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 - [**PMLR**] Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real. [[paper](http://proceedings.mlr.press/v100/xie20a/xie20a.pdf)]
 
 
-[**IEEE-RAL**] Learning Natural Locomotion Behaviors for Humanoid Robots Using Human Bias. [[paper](https://ieeexplore.ieee.org/document/8990011)]
+- [**IEEE-RAL**] Learning Natural Locomotion Behaviors for Humanoid Robots Using Human Bias. [[paper](https://ieeexplore.ieee.org/document/8990011)]
 
 ### 2019
 
