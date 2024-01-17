@@ -97,6 +97,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 ### 2021
 
 
+- [2021] Pushing the Limits: Running at 3.2m/s on Cassie. [**sim2real**][[paper](https://static1.squarespace.com/static/6005cfec3753c24df2490e0a/t/60babe4adeed3270f74ee15f/1622851147856/Jeremy+Dao+-+DW_2021__Fast_Running.pdf)]
+
 - [**ICRA**] Reinforcement Learning for Robust Parameterized Locomotion Control of Bipedal Robots. [**sim2real**] [[paper](https://ieeexplore.ieee.org/abstract/document/9560769)]
 
 - [**ICRA**] Sim-to-Real Learning of All Common Bipedal Gaits via Periodic Reward Composition. [[paper](https://arxiv.org/abs/2011.01387)]
