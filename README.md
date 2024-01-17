@@ -48,6 +48,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 - [2023] Learning Humanoid Locomotion with Transformers. [[paper](https://arxiv.org/pdf/2303.03381.pdf)]
 
+- [**Humanoid**] Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation [**imitation**] [[paper](https://arxiv.org/pdf/2309.01952.pdf)]
+
 - [**ICRA**] Benchmarking Potential Based Rewards for Learning Humanoid Locomotion. [[paper](https://ieeexplore.ieee.org/abstract/document/10160885)]
 
 - [**IEEE-RAL**] Learning Complex Motor Skills for Legged Robot Fall Recovery. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10138662)]
