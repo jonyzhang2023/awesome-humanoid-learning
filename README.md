@@ -15,6 +15,7 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 | Cassie (URDF) | Agility Robotics | [URDF](https://github.com/robot-descriptions/cassie_description) | MIT | ✔️ | ✔️ | ✔️ |
 | Spryped | Benjamin Bokser | [URDF](https://github.com/bbokser/spryped/tree/master/spryped_urdf_rev06) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
 | Upkie | Tast's Robots | [URDF](https://github.com/tasts-robots/upkie_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Hector | [USC DRCL](https://sites.usc.edu/quann/robots/) | [URDF](https://github.com/DRCL-USC/Hector_Simulation) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 
 ### Humanoids
 
