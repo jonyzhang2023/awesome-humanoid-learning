@@ -40,6 +40,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 - **[20240116]** Tesla Optimus Bot Folds Laundry [ [X](https://twitter.com/elonmusk/status/1746970616060580326) | [Video](https://www.youtube.com/watch?v=gyURDZB7imo) ]
 
+- **[20240119]** Figure announces commercial agreement with BMW Manufacturing to bring general purpose robots into automotive production [[PR Newswire](https://www.prnewswire.com/news-releases/figure-announces-commercial-agreement-with-bmw-manufacturing-to-bring-general-purpose-robots-into-automotive-production-302036263.html)]
+
 ## Papers
 
 ### 2023
