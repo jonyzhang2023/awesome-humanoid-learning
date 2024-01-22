@@ -34,7 +34,7 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 | TALOS | PAL Robotics | [URDF](https://github.com/stack-of-tasks/talos-data) | LGPL-3.0 | ✔️ | ✔️ | ✔️ |
 | Valkyrie | NASA JSC Robotics | [URDF](https://github.com/gkjohnson/nasa-urdf-robots/tree/master/val_description/model), [Xacro](https://gitlab.com/nasa-jsc-robotics/val_description) | NASA-1.3 | ✔️ | ✔️ | ✔️ |
 | WALK-MAN | IIT | [Xacro](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| H1 | Unitree | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_h1) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| H1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
  
 ## News
 
