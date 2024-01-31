@@ -44,6 +44,10 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ## Papers
 
+### 2024
+
+- [2024] Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control [[paper](https://arxiv.org/abs/2401.16889)] [[video](https://www.youtube.com/watch?v=sQEnDbET75g)]
+
 ### 2023
 
 - [**IROS**] Development of a Whole-body Work Imitation Learning System by a Biped and Bi-armed Humanoid [[paper](https://arxiv.org/abs/2309.15756)] [[project](https://haraduka.github.io/jaxon-tablis-imitation/)]
