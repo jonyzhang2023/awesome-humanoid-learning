@@ -50,6 +50,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2023
 
+- [**ICRA**] Optimizing Bipedal Locomotion for The 100m Dash With Comparison to Human Running. [[paper](https://ieeexplore.ieee.org/document/10160436/)]
+
 - [2023] Learning Vision-Based Bipedal Locomotion for Challenging Terrain. [[paper](http://arxiv.org/abs/2309.14594)]
 
 - [**IROS**] Development of a Whole-body Work Imitation Learning System by a Biped and Bi-armed Humanoid [[paper](https://arxiv.org/abs/2309.15756)] [[project](https://haraduka.github.io/jaxon-tablis-imitation/)]
