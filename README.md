@@ -145,11 +145,13 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 - [**3DV**] Grasping Field: Learning Implicit Representations for Human Grasps [[paper](https://arxiv.org/pdf/2008.04451.pdf)]
 
-### 2019
 
+
+### 2019
 
 - [**IROS**] Sim-to-Real Transfer for Biped Locomotion. [[paper](https://ieeexplore.ieee.org/abstract/document/8968053)]
 
+- [**SIG GRAPH**] Catch & Carry: Reusable Neural Controllers for Vision-Guided Whole-Body Tasks [[paper](https://arxiv.org/abs/1911.06636)]
 
 
 
