@@ -42,13 +42,21 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 - **[20240119]** Figure announces commercial agreement with BMW Manufacturing to bring general purpose robots into automotive production [[PR Newswire](https://www.prnewswire.com/news-releases/figure-announces-commercial-agreement-with-bmw-manufacturing-to-bring-general-purpose-robots-into-automotive-production-302036263.html) | [YouTube](https://www.youtube.com/watch?v=mXF1qOv74z8)]
 
+- **[20240229]** PNDbotics announces their humanoid robot adam [[YouTube](https://www.youtube.com/watch?v=7hK2ySYBa1I)]
+
 ## Papers
 
 ### 2024
 
 - [2024] Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control [[paper](https://arxiv.org/abs/2401.16889)] [[video](https://www.youtube.com/watch?v=sQEnDbET75g)]
 
+- [2024] Whole-body Humanoid Robot Locomotion with Human Reference [[paper](https://arxiv.org/abs/2402.18294)] [[video](https://www.youtube.com/watch?v=7hK2ySYBa1I)]
+
+- [2024] Expressive Whole-Body Control for Humanoid Robots [[project](https://expressive-humanoid.github.io/)] [[paper](https://arxiv.org/abs/2402.16796)]
+
 ### 2023
+
+- [**Nature-Machine-Intelligence**] Hierarchical generative modelling for autonomous robots [[paper](https://www.nature.com/articles/s42256-023-00752-z)]
 
 - [**ICRA**] Optimizing Bipedal Locomotion for The 100m Dash With Comparison to Human Running. [[paper](https://ieeexplore.ieee.org/document/10160436/)]
 
