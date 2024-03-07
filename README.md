@@ -38,12 +38,16 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
  
 ## News
 
-- **[20240306]** Robot Era releases their humanoid reinforcement sim2real code! [[Code](https://github.com/roboterax/humanoid-gym)]
+- **[20240306]** Robot Era releases their humanoid reinforcement sim2real code! [[project](https://sites.google.com/view/humanoid-gym/) | [Code](https://github.com/roboterax/humanoid-gym)]
+
+- **[20240302]** Unitree H1 Breaking humanoid robot speed world record [full-size humanoid] Evolution V3.0 [[YouTube](Unitree H1 Breaking humanoid robot speed world record [full-size humanoid] Evolution V3.0
+)] 
+
 - **[20240229]** PNDbotics announces their humanoid robot 'Adam' [[YouTube](https://www.youtube.com/watch?v=7hK2ySYBa1I)]
 
 - **[20240119]** Figure announces commercial agreement with BMW Manufacturing to bring general purpose robots into automotive production [[PR Newswire](https://www.prnewswire.com/news-releases/figure-announces-commercial-agreement-with-bmw-manufacturing-to-bring-general-purpose-robots-into-automotive-production-302036263.html) | [YouTube](https://www.youtube.com/watch?v=mXF1qOv74z8)]
 
-- **[20240116]** Tesla Optimus Bot Folds Laundry [ [X](https://twitter.com/elonmusk/status/1746970616060580326) | [Video](https://www.youtube.com/watch?v=gyURDZB7imo) ]
+- **[20240116]** Tesla Optimus Bot Folds Laundry [ [X](https://twitter.com/elonmusk/status/1746970616060580326) | [YouTube](https://www.youtube.com/watch?v=gyURDZB7imo) ]
 
 
 
