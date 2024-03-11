@@ -42,7 +42,7 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 - **[20240302]** Unitree H1 Breaking humanoid robot speed world record [full-size humanoid] Evolution V3.0 [[YouTube](https://www.youtube.com/watch?v=83ShvgtyFAg)] 
 
-- **[20240229]** PNDbotics announces their humanoid robot 'Adam' [[paper](https://arxiv.org/abs/2402.18294) | [YouTube](https://www.youtube.com/watch?v=7hK2ySYBa1I)]
+- **[20240229]** PNDbotics announces their humanoid robot 'Adam' [[project](https://greatsjk.github.io/Adam-PNDbotics/) |[paper](https://arxiv.org/abs/2402.18294) | [YouTube](https://www.youtube.com/watch?v=7hK2ySYBa1I)]
 
 - **[20240119]** Figure announces commercial agreement with BMW Manufacturing to bring general purpose robots into automotive production [[PR Newswire](https://www.prnewswire.com/news-releases/figure-announces-commercial-agreement-with-bmw-manufacturing-to-bring-general-purpose-robots-into-automotive-production-302036263.html) | [YouTube](https://www.youtube.com/watch?v=mXF1qOv74z8)]
 
@@ -56,7 +56,7 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 - [2024] Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control [[paper](https://arxiv.org/abs/2401.16889)] [[video](https://www.youtube.com/watch?v=sQEnDbET75g)]
 
-- [2024] Whole-body Humanoid Robot Locomotion with Human Reference [**imitation**] [[paper](https://arxiv.org/abs/2402.18294)] [[video](https://www.youtube.com/watch?v=7hK2ySYBa1I)]
+- [2024] Whole-body Humanoid Robot Locomotion with Human Reference [**imitation**] [[project](https://greatsjk.github.io/Adam-PNDbotics/) [paper](https://arxiv.org/abs/2402.18294)] [[video](https://www.youtube.com/watch?v=7hK2ySYBa1I)]
 
 - [2024] Expressive Whole-Body Control for Humanoid Robots [**imitation**] [[project](https://expressive-humanoid.github.io/)] [[paper](https://arxiv.org/abs/2402.16796)]
 
