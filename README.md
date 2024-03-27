@@ -57,7 +57,7 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 - [2024] Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control [[paper](https://arxiv.org/abs/2401.16889)] [[video](https://www.youtube.com/watch?v=sQEnDbET75g)]
 
-- [2024] Whole-body Humanoid Robot Locomotion with Human Reference [**imitation**] [[project](https://greatsjk.github.io/Adam-PNDbotics/) [paper](https://arxiv.org/abs/2402.18294)] [[video](https://www.youtube.com/watch?v=7hK2ySYBa1I)]
+- [2024] Whole-body Humanoid Robot Locomotion with Human Reference [**imitation**] [[project](https://greatsjk.github.io/Adam-PNDbotics/)] [[paper](https://arxiv.org/abs/2402.18294)] [[video](https://www.youtube.com/watch?v=7hK2ySYBa1I)]
 
 - [2024] Expressive Whole-Body Control for Humanoid Robots [**imitation**] [[project](https://expressive-humanoid.github.io/)] [[paper](https://arxiv.org/abs/2402.16796)]
 
