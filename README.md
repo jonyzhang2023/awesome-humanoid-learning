@@ -38,6 +38,10 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
  
 ## News
 
+- **[20240325]** Fourier's GR-1 robot platform bangs the drum for embodied AI devs [[video](https://www.youtube.com/watch?v=u70LO78YKZg)]
+
+- **[20240318]** **NVIDIA showcased the intelligent future of humanoid robots at GTC 2024 and announced a new project called gr00t** [[project](https://developer.nvidia.com/project-gr00t) | [video](https://www.youtube.com/watch?v=kr7FaZPFp6M)]
+
 - **[20240306]** Robot Era releases their humanoid reinforcement sim2real code! [[project](https://sites.google.com/view/humanoid-gym/) | [Code](https://github.com/roboterax/humanoid-gym)]
 
 - **[20240302]** Unitree H1 Breaking humanoid robot speed world record [full-size humanoid] Evolution V3.0 [[YouTube](https://www.youtube.com/watch?v=83ShvgtyFAg)] 
