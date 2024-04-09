@@ -57,6 +57,9 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 ## Papers
 
 ### 2024
+
+- [2024] HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation [**benchmark**] [[project](https://humanoid-bench.github.io/)] [[paper](https://arxiv.org/abs/2403.10506)] [[code](https://github.com/carlosferrazza/humanoid-bench)]
+
 - [2024] Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation [[paper](https://arxiv.org/abs/2403.04436)] [[video](https://www.youtube.com/watch?v=0W4N2q7xtcQ)]
 
 - [2024] Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control [[paper](https://arxiv.org/abs/2401.16889)] [[video](https://www.youtube.com/watch?v=sQEnDbET75g)]
