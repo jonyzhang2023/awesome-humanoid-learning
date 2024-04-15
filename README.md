@@ -60,6 +60,14 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2024
 
+- [2024] Humanoid Robots at work: where are we ? [**Survey**] [[paper](https://arxiv.org/abs/2404.04249)]
+
+- [2024] Diffusing in Someone Else's Shoes: Robotic Perspective Taking with Diffusion [Manipulation] [[paper](https://arxiv.org/abs/2404.07735)]
+
+- [2024] Large Language Models for Orchestrating Bimanual Robots [Manipulation] [[paper](https://arxiv.org/abs/2404.02018)]
+
+- [2024] Humanoid Locomotion as Next Token Prediction [[paper](https://arxiv.org/abs/2402.19469)]
+
 - [2024] HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation [**benchmark**] [[project](https://humanoid-bench.github.io/)] [[paper](https://arxiv.org/abs/2403.10506)] [[code](https://github.com/carlosferrazza/humanoid-bench)]
 
 - [2024] Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation [[paper](https://arxiv.org/abs/2403.04436)] [[video](https://www.youtube.com/watch?v=0W4N2q7xtcQ)]
