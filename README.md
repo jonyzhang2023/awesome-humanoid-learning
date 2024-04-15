@@ -38,6 +38,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
  
 ## News
 
+- **[20240408]** Sanctuary AI - Phoenix at Human-Equivalent Speed [[YouTube](https://www.youtube.com/watch?v=FH3zbUSMAAU)]
+
 - **[20240320]** Unitree H1 The World's First Full-size Motor Drive Humanoid Robot Flips on Ground! AWESOME! [[YouTube](https://www.youtube.com/watch?v=V1LyWsiTgms)]
 
 - **[20240318]** **NVIDIA showcase the intelligent future of humanoid robots at GTC 2024 and announce a new project called GR00T** [[project](https://developer.nvidia.com/project-gr00t) | [video1](https://www.youtube.com/watch?v=kr7FaZPFp6M) | [video2](https://www.youtube.com/watch?v=51TYhPJ4zys)]
