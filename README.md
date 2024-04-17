@@ -62,6 +62,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2024
 
+- [2024] Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer [[paper](https://arxiv.org/abs/2404.05695)]
+
 - [2024] Humanoid Robots at work: where are we ? [**Survey**] [[paper](https://arxiv.org/abs/2404.04249)]
 
 - [2024] Diffusing in Someone Else's Shoes: Robotic Perspective Taking with Diffusion [Manipulation] [[paper](https://arxiv.org/abs/2404.07735)]
