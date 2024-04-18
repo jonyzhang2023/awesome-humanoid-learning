@@ -38,6 +38,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
  
 ## News
 
+- **[20240417]** **All New Atlas | Boston Dynamics** [[YouTube](https://www.youtube.com/watch?v=29ECwExc-_M)]
+
 - **[20240416]** **Farewell to HD Atlas** 😢❤️ For almost a decade, Atlas has sparked our imagination, inspired the next generations of roboticists, and leapt over technical barriers in the field. ❤️ [[YouTube](https://www.youtube.com/watch?v=-9EM5_VFlt8)] 
 
 - **[20240408]** Sanctuary AI - Phoenix at Human-Equivalent Speed [[YouTube](https://www.youtube.com/watch?v=FH3zbUSMAAU)]
