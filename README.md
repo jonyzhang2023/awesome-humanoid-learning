@@ -37,7 +37,7 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 | H1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
  
 ## News
-- **[20240417]** **Unitree G1 Humanoid Agent | AI Avatar** [[YouTube](https://www.youtube.com/watch?v=GzX1qOIO1bE)]
+- **[20240514]** **Unitree G1 Humanoid Agent | AI Avatar** [[YouTube](https://www.youtube.com/watch?v=GzX1qOIO1bE)]
   
 - **[20240417]** **All New Atlas | Boston Dynamics** [[YouTube](https://www.youtube.com/watch?v=29ECwExc-_M) | [IEEE SPECTRUM](https://spectrum.ieee.org/atlas-humanoid-robot-ceo-interview)]
 
