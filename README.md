@@ -91,8 +91,6 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2023
 
-- [**Humanoid**]Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation [[project](https://ut-austin-rpl.github.io/TRILL/)]
-
 - [**Nature-Machine-Intelligence**] Hierarchical generative modelling for autonomous robots [[paper](https://www.nature.com/articles/s42256-023-00752-z)]
 
 - [**ICRA**] Optimizing Bipedal Locomotion for The 100m Dash With Comparison to Human Running. [[paper](https://ieeexplore.ieee.org/document/10160436/)]
