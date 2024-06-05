@@ -65,6 +65,10 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2024
 
+- [2024] Toward Understanding Key Estimation in Learning Robust Humanoid Locomotion [[paper](https://arxiv.org/abs/2403.05868)]
+
+- [2024] Unsupervised Neural Motion Retargeting for Humanoid Teleoperatio [[paper](https://arxiv.org/pdf/2406.00727)]
+
 - [2024] Deep Reinforcement Learning for Bipedal Locomotion: A Brief Survey [[paper](https://arxiv.org/abs/2404.17070)]
 
 - [2024] Revisiting Reward Design and Evaluation for Robust Humanoid Standing and Walking [[project](https://b-vm.github.io/Robust-SaW/)] [[paper](https://b-vm.github.io/Robust-SaW/IROS_2024__Revisiting_Reward_Design_and_Evaluation_for_Robust_Humanoid_Walking.pdf)]
