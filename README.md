@@ -65,6 +65,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2024
 
+- [2024] Hierarchical World Models as Visual Whole-Body Humanoid Controllers [[paper](https://arxiv.org/pdf/2405.18418v1)]
+
 - [2024] Toward Understanding Key Estimation in Learning Robust Humanoid Locomotion [[paper](https://arxiv.org/abs/2403.05868)]
 
 - [2024] Unsupervised Neural Motion Retargeting for Humanoid Teleoperatio [[paper](https://arxiv.org/pdf/2406.00727)]
