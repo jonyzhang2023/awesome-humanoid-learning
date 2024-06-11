@@ -65,6 +65,12 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2024
 
+- [2024] WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts [[project](https://lecar-lab.github.io/wococo/)]
+
+- [2024] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning [[project](https://omni.human2humanoid.com/)] [[paper](https://omni.human2humanoid.com/resources/OmniH2O_paper.pdf)] 
+
+- [2024] Humanoid Parkour Learning [[project](https://humanoid4parkour.github.io/)] 
+
 - [2024] Hierarchical World Models as Visual Whole-Body Humanoid Controllers [[paper](https://arxiv.org/pdf/2405.18418v1)] [[code](https://github.com/nicklashansen/puppeteer)]
 
 - [2024] Toward Understanding Key Estimation in Learning Robust Humanoid Locomotion [[paper](https://arxiv.org/abs/2403.05868)]
