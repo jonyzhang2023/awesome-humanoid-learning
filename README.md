@@ -66,6 +66,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2024
 
+- [2024] Learning Generic and Dynamic Locomotion of Humanoids Across Discrete Terrains [[paper](https://arxiv.org/abs/2405.17227)] [[video](https://www.youtube.com/watch?v=h0k11Ess_kc)]
+
 - [2024] HumanPlus: Humanoid Shadowing and Imitation from Humans [[project](https://humanoid-ai.github.io/)] [[paper](https://humanoid-ai.github.io/HumanPlus.pdf)] [[code](https://github.com/MarkFzp/humanplus)]
 
 - [2024] WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts [[project](https://lecar-lab.github.io/wococo/)] [[paper](https://arxiv.org/abs/2406.06005)]
