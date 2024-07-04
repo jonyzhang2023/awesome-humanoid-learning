@@ -82,7 +82,7 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 - [2024] Toward Understanding Key Estimation in Learning Robust Humanoid Locomotion [[paper](https://arxiv.org/abs/2403.05868)]
 
-- [2024] Unsupervised Neural Motion Retargeting for Humanoid Teleoperatio [[paper](https://arxiv.org/pdf/2406.00727)]
+- [2024] Unsupervised Neural Motion Retargeting for Humanoid Teleoperation [[paper](https://arxiv.org/pdf/2406.00727)]
 
 - [2024] Deep Reinforcement Learning for Bipedal Locomotion: A Brief Survey [[paper](https://arxiv.org/abs/2404.17070)]
 
