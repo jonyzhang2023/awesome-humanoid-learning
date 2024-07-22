@@ -71,6 +71,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2024
 
+- [**RSS**] Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning [[paper](https://roboticsconference.org/program/papers/58/)]
+
 - [**RSS**] Design and Control of a Bipedal Robotic Character [[paper](https://la.disneyresearch.com/publication/design-and-control-of-a-bipedal-robotic-character/)] [[video](https://www.youtube.com/watch?v=7_LW7u-nk6Q)]
 
 - [2024] Open-TeleVision : Teleoperation with Immersive Active Visual Feedback [[project](https://robot-tv.github.io/)]
