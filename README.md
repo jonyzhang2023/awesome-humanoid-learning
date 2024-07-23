@@ -71,6 +71,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2024
 
+- [2024] Tailoring Solution Accuracy for Fast Whole-body Model Predictive Control of Legged Robots [[paper](https://arxiv.org/abs/2407.10789)] [[video](https://www.youtube.com/watch?v=Xmi7AFGhlFc)]
+
 - [**RSS**] Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning [[paper](https://roboticsconference.org/program/papers/58/)]
 
 - [**RSS**] Design and Control of a Bipedal Robotic Character [[paper](https://la.disneyresearch.com/publication/design-and-control-of-a-bipedal-robotic-character/)] [[video](https://www.youtube.com/watch?v=7_LW7u-nk6Q)]
