@@ -71,6 +71,10 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2024
 
+- [2024] Teleoperation of Humanoid Robots: A Survey [[paper](https://arxiv.org/pdf/2301.04317)]
+
+- [***SIGGRAPH***] VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters [[project](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)]
+
 - [2024] Tailoring Solution Accuracy for Fast Whole-body Model Predictive Control of Legged Robots [[paper](https://arxiv.org/abs/2407.10789)] [[video](https://www.youtube.com/watch?v=Xmi7AFGhlFc)]
 
 - [**RSS**] Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning [[paper](https://roboticsconference.org/program/papers/58/)]
