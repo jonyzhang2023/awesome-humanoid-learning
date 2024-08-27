@@ -39,6 +39,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
  
 ## News
 
+- **[20240821]** **The World Robot Conference was held in Beijing, with a total of 27 humanoid robots participating in the event.** [[WRC2024](https://www.worldrobotconference.com/)]
+
 - **[20240705]** **Humanoid robot vanguard matrix & Optiums at WAIC 2024** [[YouTube](https://www.youtube.com/shorts/HNNQmPNxR3I)]
 
 - **[20240704]** **Figure x BMW Group's Spartanburg Plant** [[YouTube](https://www.youtube.com/watch?v=UBTELOuy6Us)]
