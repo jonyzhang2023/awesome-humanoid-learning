@@ -73,7 +73,9 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2024
 
-- [***SIGGRAPH***] Robot Motion Diffusion Model: Motion Generation for Robotic Characters [[project](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/)]
+- [**CoRL**] Adapting Humanoid Locomotion over Challenging Terrain via Two-Phase Training [[project](https://sites.google.com/view/adapting-humanoid-locomotion/two-phase-training)] [[OpenReview](https://openreview.net/forum?id=O0oK2bVist)]
+
+- [**SIGGRAPH**] Robot Motion Diffusion Model: Motion Generation for Robotic Characters [[project](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/)]
 
 - [2024] Teleoperation of Humanoid Robots: A Survey [[paper](https://arxiv.org/pdf/2301.04317)]
 
