@@ -73,6 +73,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2024
 
+- [***SIGGRAPH***] Robot Motion Diffusion Model: Motion Generation for Robotic Characters [[project](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/)]
+
 - [2024] Teleoperation of Humanoid Robots: A Survey [[paper](https://arxiv.org/pdf/2301.04317)]
 
 - [***SIGGRAPH***] VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters [[project](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)]
