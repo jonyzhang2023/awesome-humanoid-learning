@@ -73,6 +73,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 ### 2024
 
+- [**SIGGRAPH**] MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting [[project](https://research.nvidia.com/labs/par/maskedmimic/)] [[paper](https://research.nvidia.com/labs/par/maskedmimic/assets/SIGGRAPHAsia2024_MaskedMimic.pdf)]
+
 - [**CoRL**] Adapting Humanoid Locomotion over Challenging Terrain via Two-Phase Training [[project](https://sites.google.com/view/adapting-humanoid-locomotion/two-phase-training)] [[OpenReview](https://openreview.net/forum?id=O0oK2bVist)]
 
 - [**SIGGRAPH**] Robot Motion Diffusion Model: Motion Generation for Robotic Characters [[project](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/)]
