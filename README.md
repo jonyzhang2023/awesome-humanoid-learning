@@ -4,6 +4,8 @@ A curated list of resources relevant to humanoid robots learning.
 
 Given the similarities between the locomotion of humanoid robots and bipedal robots, we have included some works on bipedal locomotion for reference.
 
+In recent research, I have noticed an increasing convergence between humanoid robotics and physics-based animation. I believe this is a highly promising direction for the development of humanoid robots. Therefore, I will be updating this repository with animation works that I find beneficial for humanoid robotics.
+
 ## Robot models
 
 ### Bipeds
