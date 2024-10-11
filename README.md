@@ -41,6 +41,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
  
 ## News
 
+- **[20241011]** **Tesla 'We, Robot'** [[Youtube](https://www.youtube.com/watch?v=6v6dbxPlsXs)]
+
 - **[20240821]** **The World Robot Conference was held in Beijing, with a total of 27 humanoid robots participating in the event.** [[WRC2024](https://www.worldrobotconference.com/)]
 
 - **[20240705]** **Humanoid robot vanguard matrix & Optiums at WAIC 2024** [[YouTube](https://www.youtube.com/shorts/HNNQmPNxR3I)]
