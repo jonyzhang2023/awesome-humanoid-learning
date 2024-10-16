@@ -77,6 +77,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2024
 
+- [2024] Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies [[project](https://lipschitz-constrained-policy.github.io/)] [[paper](https://arxiv.org/abs/2410.11825)] [[code](https://github.com/zixuan417/smooth-humanoid-locomotion)]
+
 - [2024] Stage-Wise Reward Shaping for Acrobatic Robots: A Constrained Multi-Objective Reinforcement Learning Approach [[paper](https://arxiv.org/pdf/2409.15755)] 
 
 - [**SIGGRAPH**] MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting [[project](https://research.nvidia.com/labs/par/maskedmimic/)] [[paper](https://research.nvidia.com/labs/par/maskedmimic/assets/SIGGRAPHAsia2024_MaskedMimic.pdf)]
