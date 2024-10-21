@@ -264,3 +264,4 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 - [Legged-Robots](https://github.com/singhaman1750/Legged-Robots)
 - [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
 - [awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)
+- [awesome-humanoid-manipulation](https://github.com/Tsunami-kun/awesome-humanoid-manipulation)
