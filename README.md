@@ -41,6 +41,10 @@ In recent research, I have noticed an increasing convergence between humanoid ro
  
 ## News
 
+- **[20241024]** **EngineAI-robotics demonstrate a very natural gait** [[YouTube](https://www.youtube.com/watch?v=R7tgKCi3DOs)] [[bilibili](https://space.bilibili.com/3546728498202679/)]
+
+- **[20241024]** **AigbotTech open-source their hardware design schematics and training framework** [[AgibotTech Github](https://github.com/AgibotTech)]
+
 - **[20241011]** **Tesla 'We, Robot'** [[Youtube](https://www.youtube.com/watch?v=6v6dbxPlsXs)]
 
 - **[20240821]** **The World Robot Conference was held in Beijing, with a total of 27 humanoid robots participating in the event.** [[WRC2024](https://www.worldrobotconference.com/)]
@@ -76,6 +80,10 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2024
+
+- [2024] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[paper](https://arxiv.org/abs/2410.10803)]
+
+- [**CoRL**] OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [[paper](https://arxiv.org/pdf/2410.11792)]
 
 - [2024] Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies [[project](https://lipschitz-constrained-policy.github.io/)] [[paper](https://arxiv.org/abs/2410.11825)] [[code](https://github.com/zixuan417/smooth-humanoid-locomotion)]
 
