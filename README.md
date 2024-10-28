@@ -81,6 +81,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2024
 
+- [**CoRL**] DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets [[paper](https://arxiv.org/abs/2404.19264)] [[OpenReview](https://openreview.net/forum?id=nVJm2RdPDu)]
+
 - [2024] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[paper](https://arxiv.org/abs/2410.10803)]
 
 - [**CoRL**] OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [[paper](https://arxiv.org/pdf/2410.11792)]
