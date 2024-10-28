@@ -18,6 +18,7 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 | Spryped | Benjamin Bokser | [URDF](https://github.com/bbokser/spryped/tree/master/spryped_urdf_rev06) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
 | Upkie | Tast's Robots | [URDF](https://github.com/tasts-robots/upkie_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Hector | [USC DRCL](https://sites.usc.edu/quann/robots/) | [URDF](https://github.com/DRCL-USC/Hector_Simulation) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| SA01 | [EngineAI](https://www.engineai.com.cn/) | [URDF & MJCF](https://github.com/engineai-robotics/engineai_legged_gym) | :heavy_minus_sign: | ✔️ | ✔️ | ✔️ |
 
 ### Humanoids
 
