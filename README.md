@@ -43,6 +43,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
  
 ## News
 
+- **[20241106]** **XPENG unveils its advanced humanoid AI Robot Iron, marking a new frontier in robotics applications.** [[News](https://www.xpeng.com/news/019301d2135392fa562d8a0282200016)] [[Youtube](https://www.youtube.com/watch?v=743hskjFraE)]
+
 - **[20241024]** **EngineAI-robotics demonstrate a very natural gait** [[YouTube](https://www.youtube.com/watch?v=R7tgKCi3DOs)] [[bilibili](https://space.bilibili.com/3546728498202679/)]
 
 - **[20241024]** **AigbotTech open-source their hardware design schematics and training framework** [[AgibotTech Github](https://github.com/AgibotTech)]
