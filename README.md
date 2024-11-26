@@ -85,6 +85,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2024
 
+- [2024] Learning Humanoid Locomotion with Perceptive Internal Model [[project](https://junfeng-long.github.io/PIM/)]
+
 - [2024] Learning Humanoid Locomotion over Challenging Terrain [[paper](https://arxiv.org/pdf/2410.03654)]
 
 - [**CoRL**] One Policy to Run Them All: an End-to-end Learning Approach to Multi-Embodiment Locomotion [**XLA**] [[paper](https://arxiv.org/abs/2409.06366)] [[code](https://github.com/nico-bohlinger/one_policy_to_run_them_all)] [[OpenReview](https://openreview.net/forum?id=PbQOZntuXO)]
