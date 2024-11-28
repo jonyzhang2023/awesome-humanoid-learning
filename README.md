@@ -85,6 +85,7 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2024
 
+- [2024] HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots [[project](https://hover-versatile-humanoid.github.io/)]
 - [2024] Learning Humanoid Locomotion with Perceptive Internal Model [[project](https://junfeng-long.github.io/PIM/)]
 
 - [2024] Learning Humanoid Locomotion over Challenging Terrain [[paper](https://arxiv.org/pdf/2410.03654)]
