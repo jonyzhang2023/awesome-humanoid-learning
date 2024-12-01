@@ -47,7 +47,7 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 - **[20241024]** **EngineAI-robotics demonstrate a very natural gait** [[YouTube](https://www.youtube.com/watch?v=R7tgKCi3DOs)] [[bilibili](https://space.bilibili.com/3546728498202679/)]
 
-- **[20241024]** **AigbotTech open-source their hardware design schematics and training framework** [[AgibotTech Github](https://github.com/AgibotTech)]
+- **[20241024]** **AgibotTech open-source their hardware design schematics and training framework** [[AgibotTech Github](https://github.com/AgibotTech)]
 
 - **[20241011]** **Tesla 'We, Robot'** [[Youtube](https://www.youtube.com/watch?v=6v6dbxPlsXs)]
 
