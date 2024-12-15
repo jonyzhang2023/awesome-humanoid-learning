@@ -75,7 +75,7 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 - **[20240306]** Robot Era releases their humanoid reinforcement sim2real code! [[project](https://sites.google.com/view/humanoid-gym/) | [Code](https://github.com/roboterax/humanoid-gym)]
 
-- **[20240302]** Unitree H1 Breaking humanoid robot speed world record [full-size humanoid] Evolution V3.0 [[YouTube](https://www.youtube.com/watch?v=83ShvgtyFAg)] 
+- **[20240302]** Unitree H1 Breaking humanoid robot speed world record [full-size humanoid] Evolution V3.0 [[YouTube](https://www.youtube.com/watch?v=83ShvgtyFAg)]
 
 - **[20240229]** PNDbotics announces their humanoid robot 'Adam' [[project](https://greatsjk.github.io/Adam-PNDbotics/) | [paper](https://arxiv.org/abs/2402.18294) | [YouTube](https://www.youtube.com/watch?v=7hK2ySYBa1I)]
 
