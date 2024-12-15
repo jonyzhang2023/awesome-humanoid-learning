@@ -43,6 +43,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
  
 ## News
 
+- **[20241213]** **Meta Releases humanoid Env and Project** [[project](https://metamotivo.metademolab.com/)]
+
 - **[20241130]** **Tesla Optimus Robot Catching a Ball** [[Youtube](https://www.youtube.com/watch?v=htXUNnrUFOs)]
 
 - **[20241106]** **XPENG unveils its advanced humanoid AI Robot Iron, marking a new frontier in robotics applications.** [[News](https://www.xpeng.com/news/019301d2135392fa562d8a0282200016)] [[Youtube](https://www.youtube.com/watch?v=743hskjFraE)]
@@ -86,6 +88,10 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2024
+
+- [2024] Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control [[project](https://mobile-tv.github.io/)]
+
+- [2024] Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models [[project](https://metamotivo.metademolab.com/)] [[github](https://github.com/facebookresearch/metamotivo?tab=readme-ov-file)] [[paper](https://ai.meta.com/research/publications/zero-shot-whole-body-humanoid-control-via-behavioral-foundation-models/)]
 
 - [2024] HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots [[project](https://hover-versatile-humanoid.github.io/)]
 - [2024] Learning Humanoid Locomotion with Perceptive Internal Model [[project](https://junfeng-long.github.io/PIM/)]
