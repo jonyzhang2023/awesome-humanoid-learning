@@ -89,6 +89,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2024
 
+- [2024] Exbody2: Advanced Expressive Humanoid Whole-Body Control [[project](https://exbody2.github.io/)]
+
 - [2024] Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control [[project](https://mobile-tv.github.io/)]
 
 - [2024] Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models [[project](https://metamotivo.metademolab.com/)] [[github](https://github.com/facebookresearch/metamotivo?tab=readme-ov-file)] [[paper](https://ai.meta.com/research/publications/zero-shot-whole-body-humanoid-control-via-behavioral-foundation-models/)]
