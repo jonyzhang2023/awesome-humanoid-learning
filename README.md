@@ -43,6 +43,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ## News
 
+- **[20241224]** Happy Holidays | 2024 | Boston Dynamics [[YouTube](https://www.youtube.com/watch?v=sFkUH5XFHKU)]
+
 - **[20241213]** **Meta Releases humanoid Env and Project** [[project](https://metamotivo.metademolab.com/)]
 
 - **[20241130]** **Tesla Optimus Robot Catching a Ball** [[Youtube](https://www.youtube.com/watch?v=htXUNnrUFOs)]
