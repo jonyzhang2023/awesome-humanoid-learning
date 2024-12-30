@@ -93,6 +93,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 - [2024] ARMADA: Augmented Reality for Robot Manipulation and Robot-Free Data Acquisition [[project](https://nataliya.dev/armada)]
 
+- [2024] ARMOR: Egocentric Perception for Humanoid Robot Collision Avoidance and Motion Planning [[paper](https://arxiv.org/pdf/2412.00396v1)]
+
 - [2024] Exbody2: Advanced Expressive Humanoid Whole-Body Control [[project](https://exbody2.github.io/)]
 
 - [2024] Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control [[project](https://mobile-tv.github.io/)]
