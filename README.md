@@ -89,6 +89,11 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ## Papers
 
+### 2025
+
+- [2025] Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning [[paper](https://arxiv.org/abs/2501.02116)]
+
+
 ### 2024
 
 - [2024] ARMADA: Augmented Reality for Robot Manipulation and Robot-Free Data Acquisition [[project](https://nataliya.dev/armada)]
