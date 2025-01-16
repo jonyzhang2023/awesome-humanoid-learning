@@ -91,7 +91,7 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
-- [2025] Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning [[paper](https://arxiv.org/abs/2501.02116)]
+- [2025] Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning [**Survey**][[paper](https://arxiv.org/abs/2501.02116)]
 
 
 ### 2024
