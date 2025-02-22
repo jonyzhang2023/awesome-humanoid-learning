@@ -43,6 +43,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ## News
 
+- **[20250218]** **Unitree G1 Continues to Dance Despite All Obstacles | Unitree G1 Humanoid Robot** [[YouTube](https://www.youtube.com/watch?v=XF8U2i62Ob4)]
+
 - **[20250214]** **Unitree's G1 Humanoid Robots are RUNNING Now** [[YouTube](https://www.youtube.com/watch?v=jylMk0qbDjc)]
 
 - **[20241224]** Happy Holidays | 2024 | Boston Dynamics [[YouTube](https://www.youtube.com/watch?v=sFkUH5XFHKU)]
