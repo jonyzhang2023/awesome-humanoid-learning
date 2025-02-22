@@ -43,6 +43,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ## News
 
+- **[20250214]** **Unitree's G1 Humanoid Robots are RUNNING Now** [[YouTube](https://www.youtube.com/watch?v=jylMk0qbDjc)]
+
 - **[20241224]** Happy Holidays | 2024 | Boston Dynamics [[YouTube](https://www.youtube.com/watch?v=sFkUH5XFHKU)]
 
 - **[20241213]** **Meta Releases humanoid Env and Project** [[project](https://metamotivo.metademolab.com/)]
