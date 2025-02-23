@@ -320,3 +320,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 - [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
 - [awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)
 - [awesome-humanoid-manipulation](https://github.com/Tsunami-kun/awesome-humanoid-manipulation)
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jonyzhang2023/awesome-humanoid-learning&type=Date)](https://star-history.com/#jonyzhang2023/awesome-humanoid-learning&Date)
