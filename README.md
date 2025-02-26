@@ -95,6 +95,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] Humanoid Whole-Body Locomotion on Narrow Terrain via Dynamic Balance and Reinforcement Learning [[paper](https://arxiv.org/pdf/2502.17219)] [[project](https://whole-body-loco.github.io/)]
+
 - [2025] BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds [[paper](https://arxiv.org/abs/2502.10363)] [[project](https://why618188.github.io/beamdojo/)]
  
 - [2025] HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [[paper](https://arxiv.org/abs/2502.13013)] [[project](https://homietele.github.io/)]
