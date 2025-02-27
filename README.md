@@ -95,6 +95,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] Think on your feet: Seamless Transition between Human-like Locomotion in Response to Changing Commands [[paper](https://arxiv.org/pdf/2502.18901)]
+
 - [2025] Learning Humanoid Locomotion with World Model Reconstruction [[paper](https://arxiv.org/pdf/2502.16230)]
 
 - [2025] COMPASS: Cross-embOdiment Mobility Policy via ResiduAl RL and Skill Synthesis [[paper](https://arxiv.org/pdf/2502.16372)]
