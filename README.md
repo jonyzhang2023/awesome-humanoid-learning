@@ -95,6 +95,12 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] Diffusion-based Planning with Learned Viability Filters [[paper](https://arxiv.org/pdf/2502.19564)]
+
+- [2025] InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions [[paper](https://arxiv.org/pdf/2502.20390)] [[project](https://sirui-xu.github.io/InterMimic)]
+
+- [2025] HiFAR: Multi-Stage Curriculum Learning for High-Dynamics Humanoid Fall Recovery [[paper](https://arxiv.org/pdf/2502.20061)]
+
 - [2025] Think on your feet: Seamless Transition between Human-like Locomotion in Response to Changing Commands [[paper](https://arxiv.org/pdf/2502.18901)]
 
 - [2025] Learning Humanoid Locomotion with World Model Reconstruction [[paper](https://arxiv.org/pdf/2502.16230)]
