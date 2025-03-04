@@ -95,6 +95,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] HiFAR: Multi-Stage Curriculum Learning for High-Dynamics Humanoid Fall Recovery [[paper](https://arxiv.org/pdf/2502.20061v2)]
+
 - [2025] Learning Getting-Up Policies for Real-World Humanoid Robots [[project](https://humanoid-getup.github.io/)]
 
 - [2025] VB-Com: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception [[paper](https://arxiv.org/pdf/2502.14814)]
