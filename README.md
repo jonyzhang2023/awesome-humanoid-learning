@@ -95,6 +95,10 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction [[paper](https://arxiv.org/pdf/2503.05231)]
+
+- [2025] BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [[paper](https://arxiv.org/pdf/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] 
+
 - [2025] Learning Perceptive Humanoid Locomotion over Challenging Terrain [[paper](https://arxiv.org/pdf/2503.00692)]
 
 - [2025] Learning Getting-Up Policies for Real-World Humanoid Robots [[project](https://humanoid-getup.github.io/)]
