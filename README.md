@@ -95,6 +95,12 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] Distillation-PPO: A Novel Two-Stage Reinforcement Learning Framework for Humanoid Robot Perceptive Locomotion [[paper](https://arxiv.org/abs/2503.08299)]
+
+- [2025] Trinity: A Modular Humanoid Robot AI System [[paper](https://arxiv.org/abs/2503.08338)]
+
+- [2025] LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures [[paper](https://arxiv.org/abs/2503.08349)]
+
 - [2025] Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction [[paper](https://arxiv.org/pdf/2503.05231)]
 
 - [2025] BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [[paper](https://arxiv.org/pdf/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] 
