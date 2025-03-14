@@ -95,6 +95,12 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models [[paper](https://arxiv.org/pdf/2503.10626)]
+
+- [2025] RILe: Reinforced Imitation Learning [[paper](https://arxiv.org/pdf/2406.08472)]
+
+- [2025] NuExo: A Wearable Exoskeleton Covering all Upper Limb ROM for Outdoor Data Collection and Teleoperation of Humanoid Robots [[paper](https://arxiv.org/pdf/2503.10554)]
+
 - [2025] HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots [[paper](https://arxiv.org/abs/2503.09010)]
 
 - [2025] Distillation-PPO: A Novel Two-Stage Reinforcement Learning Framework for Humanoid Robot Perceptive Locomotion [[paper](https://arxiv.org/abs/2503.08299)]
