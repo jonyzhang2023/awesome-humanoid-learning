@@ -95,6 +95,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots [[paper](https://arxiv.org/abs/2503.09010)]
+
 - [2025] Distillation-PPO: A Novel Two-Stage Reinforcement Learning Framework for Humanoid Robot Perceptive Locomotion [[paper](https://arxiv.org/abs/2503.08299)]
 
 - [2025] Trinity: A Modular Humanoid Robot AI System [[paper](https://arxiv.org/abs/2503.08338)]
