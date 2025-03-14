@@ -95,6 +95,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] Natural Humanoid Robot Locomotion with Generative Motion Prior [[paper](https://arxiv.org/pdf/2503.09015)] [[project](https://sites.google.com/view/humanoid-gmp)] 
+
 - [2025] NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models [[paper](https://arxiv.org/pdf/2503.10626)]
 
 - [2025] RILe: Reinforced Imitation Learning [[paper](https://arxiv.org/pdf/2406.08472)]
