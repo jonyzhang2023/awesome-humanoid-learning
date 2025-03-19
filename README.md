@@ -95,6 +95,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks [[paper](https://arxiv.org/pdf/2503.11089)]
+
 - [2025] Humanoids in Hospitals: A Technical Study of Humanoid Surrogates for Dexterous Medical Interventions [[paper](https://arxiv.org/pdf/2503.12725)] [[project](https://surgie-humanoid.github.io/)] 
 
 - [2025] Humanoid Policy ~ Human Policy [[paper](https://arxiv.org/pdf/2503.13441)] [[project](https://human-as-robot.github.io/)] 
