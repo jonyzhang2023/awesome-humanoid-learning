@@ -43,7 +43,7 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ## News
 
-— **[20250319]** **Walk, Run, Crawl, RL Fun | Boston Dynamics** | Atlas [[Youtube](https://www.youtube.com/watch?v=I44_zbEwz_w)]
+- **[20250319]** **Walk, Run, Crawl, RL Fun | Boston Dynamics** | Atlas [[Youtube](https://www.youtube.com/watch?v=I44_zbEwz_w)]
 
 - **[20250218]** **Unitree G1 Continues to Dance Despite All Obstacles | Unitree G1 Humanoid Robot** [[YouTube](https://www.youtube.com/watch?v=XF8U2i62Ob4)]
 
