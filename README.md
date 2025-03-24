@@ -97,6 +97,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] Think-Then-React: Towards Unconstrained Human Action-to-Reaction Generation [[paper](https://arxiv.org/pdf/2503.16451)]
+
 - [2025] EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks [[paper](https://arxiv.org/pdf/2503.11089)]
 
 - [2025] Humanoids in Hospitals: A Technical Study of Humanoid Surrogates for Dexterous Medical Interventions [[paper](https://arxiv.org/pdf/2503.12725)] [[project](https://surgie-humanoid.github.io/)] 
