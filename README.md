@@ -97,6 +97,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] FLAM: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation [[paper](https://arxiv.org/pdf/2503.22249)] [[project](https://xianqi-zhang.github.io/FLAM/)] 
+
 - [2025] Think-Then-React: Towards Unconstrained Human Action-to-Reaction Generation [[paper](https://arxiv.org/pdf/2503.16451)]
 
 - [2025] EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks [[paper](https://arxiv.org/pdf/2503.11089)]
