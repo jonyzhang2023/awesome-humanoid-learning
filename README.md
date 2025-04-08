@@ -96,6 +96,7 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2025
+- [2025] GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill [[paper](https://arxiv.org/pdf/2504.04191)] [[project](https://jiemingcui.github.io/grove/)] 
 
 - [2025] FLAM: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation [[paper](https://arxiv.org/pdf/2503.22249)] [[project](https://xianqi-zhang.github.io/FLAM/)] 
 
