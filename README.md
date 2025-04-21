@@ -96,6 +96,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2025
+- [2025] Robust Humanoid Walking on Compliant and Uneven Terrain with Deep Reinforcement Learning [[paper](https://arxiv.org/pdf/2504.13619)] [[project](https://github.com/rohanpsingh/LearningHumanoidWalking)] 
+
 - [2025] RUKA: Rethinking the Design of Humanoid Hands with Learning [[paper](https://arxiv.org/pdf/2504.13165)] 
 
 - [2025] Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain [[paper](https://arxiv.org/pdf/2504.10390)] 
