@@ -96,6 +96,10 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2025
+- [2025] RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots [[paper](https://arxiv.org/pdf/2504.14604)]
+
+- [2025] Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning [[paper](https://arxiv.org/pdf/2504.14305)] [[project](https://almi-humanoid.github.io/)] 
+
 - [2025] Robust Humanoid Walking on Compliant and Uneven Terrain with Deep Reinforcement Learning [[paper](https://arxiv.org/pdf/2504.13619)] [[project](https://github.com/rohanpsingh/LearningHumanoidWalking)] 
 
 - [2025] RUKA: Rethinking the Design of Humanoid Hands with Learning [[paper](https://arxiv.org/pdf/2504.13165)] 
