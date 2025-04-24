@@ -96,6 +96,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2025
+- [2025] Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models [[paper](https://arxiv.org/pdf/2504.16843)]
+
 - [2025] RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots [[paper](https://arxiv.org/pdf/2504.14604)]
 
 - [2025] Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning [[paper](https://arxiv.org/pdf/2504.14305)] [[project](https://almi-humanoid.github.io/)] 
