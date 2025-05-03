@@ -96,6 +96,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2025
+- [2025] LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning [[paper](https://arxiv.org/pdf/2504.21738)] [[video](https://youtu.be/9AN0GulqWwc)] 
+
 - [2025] Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models [[paper](https://arxiv.org/pdf/2504.16843)]
 
 - [2025] RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots [[paper](https://arxiv.org/pdf/2504.14604)]
