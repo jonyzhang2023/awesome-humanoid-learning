@@ -96,6 +96,12 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2025
+- [2025] TWIST: Teleoperated Whole-Body Imitation System [[paper](https://arxiv.org/pdf/2505.02833)] [[project](https://yanjieze.com/TWIST/)] 
+
+- [2025] AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control [[paper](https://arxiv.org/pdf/2505.03738)] [[project](https://amo-humanoid.github.io/)] 
+
+- [2025] Visual Imitation Enables Contextual Humanoid Control [[paper](https://arxiv.org/pdf/2505.03729)] [[project](https://videomimic.net/)]
+-  
 - [2025] LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning [[paper](https://arxiv.org/pdf/2504.21738)] [[video](https://youtu.be/9AN0GulqWwc)] 
 
 - [2025] Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models [[paper](https://arxiv.org/pdf/2504.16843)]
