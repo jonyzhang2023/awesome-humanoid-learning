@@ -97,8 +97,6 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
-- [2025] videomimic: Visual imitation enables contextual humanoid control [[project](https://www.videomimic.net/)] [[paper](https://www.videomimic.net/VideoMimic.pdf)]
-
 - [2025] TWIST: Teleoperated Whole-Body Imitation System [[paper](https://arxiv.org/pdf/2505.02833)] [[project](https://yanjieze.com/TWIST/)] 
 
 - [2025] AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control [[paper](https://arxiv.org/pdf/2505.03738)] [[project](https://amo-humanoid.github.io/)] 
