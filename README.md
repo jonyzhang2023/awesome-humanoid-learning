@@ -96,6 +96,9 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2025
+- [2025] Let Humanoids Hike! Integrative Skill Development on Complex Trails [[paper](https://arxiv.org/pdf/2505.06218)] [[project](https://lego-h-humanoidrobothiking.github.io/)] 
+
+- [2025] Towards Embodiment Scaling Laws Robot Locomotion [[paper](https://arxiv.org/pdf/2505.05753)]
 
 - [2025] TWIST: Teleoperated Whole-Body Imitation System [[paper](https://arxiv.org/pdf/2505.02833)] [[project](https://yanjieze.com/TWIST/)] 
 
