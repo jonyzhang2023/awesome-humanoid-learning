@@ -96,6 +96,9 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2025
+
+- [2025] HuB: Learning Extreme Humanoid Balance [[paper](https://arxiv.org/pdf/2505.07294)]
+
 - [2025] FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2505.06776)] [[project](https://lecar-lab.github.io/falcon-humanoid/)] 
 
 - [2025] Let Humanoids Hike! Integrative Skill Development on Complex Trails [[paper](https://arxiv.org/pdf/2505.06218)] [[project](https://lego-h-humanoidrobothiking.github.io/)] 
