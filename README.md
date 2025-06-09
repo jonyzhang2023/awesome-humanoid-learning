@@ -96,6 +96,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2025
+- [2025] CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks [[project](https://humanoid-clone.github.io/)]
+
 - [2025] Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control [[paper](https://lecar-lab.github.io/SoFTA/resources/Main-Paper.pdf)] [[project](https://lecar-lab.github.io/SoFTA/)] [[code](https://github.com/LeCAR-Lab/SoFTA)]
 
 - [2025] One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion [[paper](https://arxiv.org/pdf/2505.18780)] [[project](https://dreampolicy.github.io/)] 
