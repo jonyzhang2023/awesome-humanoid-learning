@@ -100,6 +100,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 - [2025] General Motion Tracking for Humanoid Whole-Body Control [[project](https://gmt-humanoid.github.io/)] [[paper](https://arxiv.org/abs/2506.14770)] [[code](https://github.com/zixuan417/humanoid-general-motion-tracking)]
 
+- [2025] SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending [[paper](https://arxiv.org/abs/2506.09366)] [[project](https://usc-gvl.github.io/SkillBlender-web/)] [[code](https://github.com/Humanoid-SkillBlender/SkillBlender)]
+
 - [2025] Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space [[project](https://zzk273.github.io/R2S2/)] [[paper](https://www.arxiv.org/pdf/2505.10918)] [[code](https://github.com/GalaxyGeneralRobotics/OpenWBT)]
 
 - [2025] CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks [[project](https://humanoid-clone.github.io/)]
