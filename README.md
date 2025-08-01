@@ -10,36 +10,36 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### Bipeds
 
-| Name | Maker | Formats | License | Meshes | Inertias | Collisions |
-|------|-------|---------|---------|--------|----------|------------|
-| Bolt | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| Cassie (MJCF) | Agility Robotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/agility_cassie) | MIT | ✔️ | ✔️ | ✔️ |
-| Cassie (URDF) | Agility Robotics | [URDF](https://github.com/robot-descriptions/cassie_description) | MIT | ✔️ | ✔️ | ✔️ |
-| Spryped | Benjamin Bokser | [URDF](https://github.com/bbokser/spryped/tree/master/spryped_urdf_rev06) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
-| Upkie | Tast's Robots | [URDF](https://github.com/tasts-robots/upkie_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| Hector | [USC DRCL](https://sites.usc.edu/quann/robots/) | [URDF](https://github.com/DRCL-USC/Hector_Simulation) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| SA01 | [EngineAI](https://www.engineai.com.cn/) | [URDF & MJCF](https://github.com/engineai-robotics/engineai_legged_gym) | :heavy_minus_sign: | ✔️ | ✔️ | ✔️ |
+| Name          | Maker                                           | Formats                                                                                   | License            | Meshes | Inertias | Collisions |
+| ------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------ | ------ | -------- | ---------- |
+| Bolt          | ODRI                                            | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | BSD-3-Clause       | ✔️      | ✔️        | ✔️          |
+| Cassie (MJCF) | Agility Robotics                                | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/agility_cassie)             | MIT                | ✔️      | ✔️        | ✔️          |
+| Cassie (URDF) | Agility Robotics                                | [URDF](https://github.com/robot-descriptions/cassie_description)                          | MIT                | ✔️      | ✔️        | ✔️          |
+| Spryped       | Benjamin Bokser                                 | [URDF](https://github.com/bbokser/spryped/tree/master/spryped_urdf_rev06)                 | GPL-3.0            | ✔️      | ✔️        | ✔️          |
+| Upkie         | Tast's Robots                                   | [URDF](https://github.com/tasts-robots/upkie_description)                                 | Apache-2.0         | ✔️      | ✔️        | ✔️          |
+| Hector        | [USC DRCL](https://sites.usc.edu/quann/robots/) | [URDF](https://github.com/DRCL-USC/Hector_Simulation)                                     | BSD-3-Clause       | ✔️      | ✔️        | ✔️          |
+| SA01          | [EngineAI](https://www.engineai.com.cn/)        | [URDF & MJCF](https://github.com/engineai-robotics/engineai_legged_gym)                   | :heavy_minus_sign: | ✔️      | ✔️        | ✔️          |
 
 ### Humanoids
 
-| Name | Maker | Formats | License | Meshes | Inertias | Collisions |
-|------|-------|---------|---------|--------|----------|------------|
-| Atlas DRC (v3) | Boston Dynamics | [URDF](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| Atlas v4 | Boston Dynamics | [URDF](https://github.com/openai/roboschool/tree/1.0.49/roboschool/models_robot/atlas_description) | MIT | ✔️ | ✔️ | ✔️ |
-| Digit | Agility Robotics | [URDF](https://github.com/adubredu/DigitRobot.jl) | ✖️ | ✔️ | ✔️ | ✔️ |
-| iCub | IIT | [URDF](https://github.com/robotology/icub-models/tree/master/iCub) | CC-BY-SA-4.0 | ✔️ | ✔️ | ✔️ |
-| JAXON | JSK | [COLLADA](https://github.com/stephane-caron/openrave_models/tree/master/JAXON), [URDF](https://github.com/robot-descriptions/jaxon_description), [VRML](https://github.com/start-jsk/rtmros_choreonoid/tree/master/jvrc_models/JAXON_JVRC) | CC-BY-SA-4.0 | ✔️ | ✔️ | ✔️ |
-| JVRC-1 | AIST | [MJCF](https://github.com/isri-aist/jvrc_mj_description/), [URDF](https://github.com/stephane-caron/jvrc_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
-| NAO | SoftBank Robotics | [URDF](https://github.com/ros-naoqi/nao_robot/tree/master/nao_description/urdf/naoV50_generated_urdf), [Xacro](https://github.com/ros-naoqi/nao_robot/tree/master/nao_description/) | BSD-3-Clause | [:heavy_minus_sign:](https://github.com/ros-naoqi/nao_meshes#readme) | ✔️ | ✔️ |
-| Robonaut 2 | NASA JSC Robotics | [URDF](https://github.com/gkjohnson/nasa-urdf-robots/tree/master/r2_description) | NASA-1.3 | ✔️ | ✔️ | ✔️ |
-| Romeo | Aldebaran Robotics | [URDF](https://github.com/ros-aldebaran/romeo_robot/tree/master/romeo_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| SigmaBan | Rhoban | [URDF](https://github.com/Rhoban/sigmaban_urdf) | MIT | ✔️ | ✔️ | ✔️ |
-| TALOS | PAL Robotics | [URDF](https://github.com/stack-of-tasks/talos-data) | LGPL-3.0 | ✔️ | ✔️ | ✔️ |
-| Valkyrie | NASA JSC Robotics | [URDF](https://github.com/gkjohnson/nasa-urdf-robots/tree/master/val_description/model), [Xacro](https://gitlab.com/nasa-jsc-robotics/val_description) | NASA-1.3 | ✔️ | ✔️ | ✔️ |
-| WALK-MAN | IIT | [Xacro](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| H1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description), [USD](https://github.com/unitreerobotics/unitree_model/tree/main/H1/usd) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| G1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| H1-2 (preview) | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_rl_gym/tree/main/resources/robots/h1_2), [Simplified URDF](https://github.com/unitreerobotics/unitree_rl_gym/tree/main/resources/robots/h1_2) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Name           | Maker              | Formats                                                                                                                                                                                                                                    | License      | Meshes                                                               | Inertias | Collisions |
+| -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | -------------------------------------------------------------------- | -------- | ---------- |
+| Atlas DRC (v3) | Boston Dynamics    | [URDF](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas)                                                                                                                                                                | BSD-3-Clause | ✔️                                                                    | ✔️        | ✔️          |
+| Atlas v4       | Boston Dynamics    | [URDF](https://github.com/openai/roboschool/tree/1.0.49/roboschool/models_robot/atlas_description)                                                                                                                                         | MIT          | ✔️                                                                    | ✔️        | ✔️          |
+| Digit          | Agility Robotics   | [URDF](https://github.com/adubredu/DigitRobot.jl)                                                                                                                                                                                          | ✖️            | ✔️                                                                    | ✔️        | ✔️          |
+| iCub           | IIT                | [URDF](https://github.com/robotology/icub-models/tree/master/iCub)                                                                                                                                                                         | CC-BY-SA-4.0 | ✔️                                                                    | ✔️        | ✔️          |
+| JAXON          | JSK                | [COLLADA](https://github.com/stephane-caron/openrave_models/tree/master/JAXON), [URDF](https://github.com/robot-descriptions/jaxon_description), [VRML](https://github.com/start-jsk/rtmros_choreonoid/tree/master/jvrc_models/JAXON_JVRC) | CC-BY-SA-4.0 | ✔️                                                                    | ✔️        | ✔️          |
+| JVRC-1         | AIST               | [MJCF](https://github.com/isri-aist/jvrc_mj_description/), [URDF](https://github.com/stephane-caron/jvrc_description)                                                                                                                      | BSD-2-Clause | ✔️                                                                    | ✔️        | ✔️          |
+| NAO            | SoftBank Robotics  | [URDF](https://github.com/ros-naoqi/nao_robot/tree/master/nao_description/urdf/naoV50_generated_urdf), [Xacro](https://github.com/ros-naoqi/nao_robot/tree/master/nao_description/)                                                        | BSD-3-Clause | [:heavy_minus_sign:](https://github.com/ros-naoqi/nao_meshes#readme) | ✔️        | ✔️          |
+| Robonaut 2     | NASA JSC Robotics  | [URDF](https://github.com/gkjohnson/nasa-urdf-robots/tree/master/r2_description)                                                                                                                                                           | NASA-1.3     | ✔️                                                                    | ✔️        | ✔️          |
+| Romeo          | Aldebaran Robotics | [URDF](https://github.com/ros-aldebaran/romeo_robot/tree/master/romeo_description)                                                                                                                                                         | BSD-3-Clause | ✔️                                                                    | ✔️        | ✔️          |
+| SigmaBan       | Rhoban             | [URDF](https://github.com/Rhoban/sigmaban_urdf)                                                                                                                                                                                            | MIT          | ✔️                                                                    | ✔️        | ✔️          |
+| TALOS          | PAL Robotics       | [URDF](https://github.com/stack-of-tasks/talos-data)                                                                                                                                                                                       | LGPL-3.0     | ✔️                                                                    | ✔️        | ✔️          |
+| Valkyrie       | NASA JSC Robotics  | [URDF](https://github.com/gkjohnson/nasa-urdf-robots/tree/master/val_description/model), [Xacro](https://gitlab.com/nasa-jsc-robotics/val_description)                                                                                     | NASA-1.3     | ✔️                                                                    | ✔️        | ✔️          |
+| WALK-MAN       | IIT                | [Xacro](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf)                                                                                                                                                     | BSD-3-Clause | ✔️                                                                    | ✔️        | ✔️          |
+| H1             | Unitree            | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description), [USD](https://github.com/unitreerobotics/unitree_model/tree/main/H1/usd)                                                                  | BSD-3-Clause | ✔️                                                                    | ✔️        | ✔️          |
+| G1             | Unitree            | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description)                                                                                                                                            | BSD-3-Clause | ✔️                                                                    | ✔️        | ✔️          |
+| H1-2 (preview) | Unitree            | [URDF & MJCF](https://github.com/unitreerobotics/unitree_rl_gym/tree/main/resources/robots/h1_2), [Simplified URDF](https://github.com/unitreerobotics/unitree_rl_gym/tree/main/resources/robots/h1_2)                                     | BSD-3-Clause | ✔️                                                                    | ✔️        | ✔️          |
 
 ## News
 
@@ -96,6 +96,11 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2025
+
+- [2025] Fast Adaptation with Behavioral Foundation Models [[paper](https://arxiv.org/abs/2504.07896)]
+
+- [2025] UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots [[paper](https://arxiv.org/abs/2507.07356)]
+  
 - [2025] TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality [[paper](https://arxiv.org/pdf/2506.15146)] 
 
 - [2025] General Motion Tracking for Humanoid Whole-Body Control [[project](https://gmt-humanoid.github.io/)] [[paper](https://arxiv.org/abs/2506.14770)] [[code](https://github.com/zixuan417/humanoid-general-motion-tracking)]
