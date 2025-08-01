@@ -97,6 +97,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] Humanoid Occupancy Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots [[project](https://humanoid-occupancy.github.io/)]
+
 - [2025] A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots [[paper](https://arxiv.org/abs/2506.20487)]
 
 - [2025] Fast Adaptation with Behavioral Foundation Models [[paper](https://arxiv.org/abs/2504.07896)]
