@@ -99,6 +99,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion [[project](https://beyondmimic.github.io/)] [[paper](https://arxiv.org/abs/2508.08241)] [[code](https://github.com/HybridRobotics/whole_body_tracking)]
+
 - [2025] Humanoid Occupancy Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots [[project](https://humanoid-occupancy.github.io/)]
 
 - [2025] A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots [[paper](https://arxiv.org/abs/2506.20487)]
