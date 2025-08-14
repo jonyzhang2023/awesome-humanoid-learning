@@ -45,7 +45,7 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 - **[20250730]** **X-Humanoid releases Humanoid Occupancy, a generalized multimodal perception system for humanoid robots** [[Project](https://humanoid-occupancy.github.io/)]
 
-- **[20250327]** **Unitree announces their new robot R1** [[Website](https://www.unitree.com/R1)]
+- **[20250727]** **Unitree announces their new robot R1** [[Website](https://www.unitree.com/R1)]
 
 - **[20250319]** **Walk, Run, Crawl, RL Fun | Boston Dynamics** | Atlas [[Youtube](https://www.youtube.com/watch?v=I44_zbEwz_w)]
 
