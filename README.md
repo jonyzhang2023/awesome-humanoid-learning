@@ -45,6 +45,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 - **[20250730]** **X-Humanoid releases Humanoid Occupancy, a generalized multimodal perception system for humanoid robots** [[Project](https://humanoid-occupancy.github.io/)]
 
+- **[20250327]** **Unitree announces their new robot R1** [[Website](https://www.unitree.com/R1)]
+
 - **[20250319]** **Walk, Run, Crawl, RL Fun | Boston Dynamics** | Atlas [[Youtube](https://www.youtube.com/watch?v=I44_zbEwz_w)]
 
 - **[20250218]** **Unitree G1 Continues to Dance Despite All Obstacles | Unitree G1 Humanoid Robot** [[YouTube](https://www.youtube.com/watch?v=XF8U2i62Ob4)]
@@ -98,6 +100,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2025
+
+- [2025] GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation [[paper](https://www.arxiv.org/abs/2508.09960)]
 
 - [2025] BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion [[project](https://beyondmimic.github.io/)] [[paper](https://arxiv.org/abs/2508.08241)] [[code](https://github.com/HybridRobotics/whole_body_tracking)]
 
