@@ -101,6 +101,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [Science Robotics] Attention-Based Map Encoding for Learning Generalized Legged Locomotion [[paper](https://arxiv.org/abs/2506.09588)]
+
 - [2025] GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation [[paper](https://www.arxiv.org/abs/2508.09960)]
 
 - [2025] BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion [[project](https://beyondmimic.github.io/)] [[paper](https://arxiv.org/abs/2508.08241)] [[code](https://github.com/HybridRobotics/whole_body_tracking)]
