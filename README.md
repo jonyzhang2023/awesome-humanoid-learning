@@ -101,6 +101,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos [[project](https://hdmi-humanoid.github.io/#/)] [[paper](https://hdmi-humanoid.github.io/assets/hdmi-release-paper-CoIFqbGf.pdf)] [[code](https://github.com/LeCAR-Lab/HDMI?tab=readme-ov-file)]
+
 - [Science Robotics] Attention-Based Map Encoding for Learning Generalized Legged Locomotion [[paper](https://arxiv.org/abs/2506.09588)]
 
 - [2025] GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation [[paper](https://www.arxiv.org/abs/2508.09960)]
