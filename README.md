@@ -101,6 +101,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking [[paper](https://arxiv.org/pdf/2510.02252)] [[code](https://github.com/YanjieZe/GMR)]
+
 - [2025] OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction [[project](https://omniretarget.github.io/)] [[paper](https://arxiv.org/pdf/2509.26633)] 
 
 - [2025] KungfuBot 2: Learning Versatile Motion Skills for Humanoid Whole-Body Control [[project](https://kungfubot2-humanoid.github.io/)]
