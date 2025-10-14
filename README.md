@@ -101,6 +101,7 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System [[project](https://why618188.github.io/physhsi/)] [[code](https://github.com/InternRobotics/PhysHSI)]
 
 - [2025] DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction [[paper](https://arxiv.org/pdf/2510.07152)]
 
