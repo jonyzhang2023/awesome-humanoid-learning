@@ -101,6 +101,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction [[project](https://omniretarget.github.io/)] [[paper](https://arxiv.org/pdf/2509.26633)] 
+
 - [2025] KungfuBot 2: Learning Versatile Motion Skills for Humanoid Whole-Body Control [[project](https://kungfubot2-humanoid.github.io/)]
 
 - [2025] HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos [[project](https://hdmi-humanoid.github.io/#/)] [[paper](https://hdmi-humanoid.github.io/assets/hdmi-release-paper-CoIFqbGf.pdf)] [[code](https://github.com/LeCAR-Lab/HDMI?tab=readme-ov-file)]
