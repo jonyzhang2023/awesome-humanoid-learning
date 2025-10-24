@@ -101,6 +101,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] GaussGym: An open-source real-to-sim framework for learning locomotion from pixels [[paper](https://arxiv.org/abs/2510.15352)]
+
 - [2025] AdaMimic: Towards Adaptable Humanoid Control via Adaptive Motion Tracking [[project](https://taohuang13.github.io/adamimic.github.io/)]
 
 - [2025] PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System [[project](https://why618188.github.io/physhsi/)] [[code](https://github.com/InternRobotics/PhysHSI)]
