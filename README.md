@@ -117,6 +117,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 - [2025] KungfuBot 2: Learning Versatile Motion Skills for Humanoid Whole-Body Control [[project](https://kungfubot2-humanoid.github.io/)]
 
+- [2025] DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion [[project](https://genrobo.github.io/DreamControl/)] [[paper](https://genrobo.github.io/DreamControl/static/paper/DreamControl_arxiv.pdf)] [[code](https://github.com/GenRobo/DreamControl/tree/main)]
+
 - [2025] HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos [[project](https://hdmi-humanoid.github.io/#/)] [[paper](https://hdmi-humanoid.github.io/assets/hdmi-release-paper-CoIFqbGf.pdf)] [[code](https://github.com/LeCAR-Lab/HDMI?tab=readme-ov-file)]
 
 - [Science Robotics] Attention-Based Map Encoding for Learning Generalized Legged Locomotion [[paper](https://arxiv.org/abs/2506.09588)]
