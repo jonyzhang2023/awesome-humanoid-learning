@@ -43,6 +43,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ## News
 
+- **[202508]** **The First Humanoid Robot Games** [[Website](https://www.whrgoc.com/)]
+
 - **[20250730]** **X-Humanoid releases Humanoid Occupancy, a generalized multimodal perception system for humanoid robots** [[Project](https://humanoid-occupancy.github.io/)]
 
 - **[20250727]** **Unitree announces their new robot R1** [[Website](https://www.unitree.com/R1)]
@@ -100,6 +102,8 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 ## Papers
 
 ### 2025
+
+- [2025] [Manipulation] [Dexterous Hands] Dexterous Robotic Piano Playing at Scale [[paper](https://arxiv.org/pdf/2511.02504)]
 
 - [2025] GaussGym: An open-source real-to-sim framework for learning locomotion from pixels [[paper](https://arxiv.org/abs/2510.15352)]
 
