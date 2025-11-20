@@ -103,6 +103,12 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ### 2025
 
+- [2025] [WBC] BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning [[paper](https://www.alphaxiv.org/abs/2511.04131)]
+
+- [2025] [WBC] SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control [[paper](https://www.alphaxiv.org/abs/2511.07820)]
+
+- [2025] [WBC] Behavior Foundation Model for Humanoid Robots [[paper](https://www.alphaxiv.org/abs/2509.13780)]
+
 - [2025] [Manipulation] [Dexterous Hands] Dexterous Robotic Piano Playing at Scale [[paper](https://arxiv.org/pdf/2511.02504)]
 
 - [2025] GaussGym: An open-source real-to-sim framework for learning locomotion from pixels [[paper](https://arxiv.org/abs/2510.15352)]
