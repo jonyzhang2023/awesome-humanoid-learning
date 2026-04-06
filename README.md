@@ -116,6 +116,7 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 | | Title | Links |
 |:--|:------|:------|
+| `WBC` | **SafeFlow**: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating | [[paper](https://arxiv.org/abs/2603.23983)] [[project](https://hanbyelcho.info/safeflow/)] |
 | `WBC` | **ULTRA**: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation | [[paper](https://arxiv.org/abs/2603.03279)] |
 | `Manipulation` | **HumDex**: Humanoid Dexterous Manipulation Made Easy | [[paper](https://arxiv.org/abs/2603.12260)] [[code](https://github.com/physical-superintelligence-lab/humdex)] |
 | `Manipulation` | **UniHM**: Unified Dexterous Hand Manipulation with Vision Language Model | [[paper](https://arxiv.org/abs/2603.00732)] [[project](https://unihm.github.io/)] |
