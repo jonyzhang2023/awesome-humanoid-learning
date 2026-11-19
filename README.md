@@ -74,6 +74,7 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 
 | Date | Event |
 |:-----|:------|
+| **2026-11-17** | **Boston Dynamics & GlobalFoundries** expand robotics collaboration to bring electric Atlas humanoids to semiconductor fabs in early 2027 (first non-automotive trial) [[Announcement](https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/)] [[SpecsLib](https://specslib.com/en/news/boston-dynamics-globalfoundries-atlas-semiconductor-fab-pilot/)] |
 | **2026-03-16** | **NVIDIA GTC 2026**: Announcing partnerships with TI to accelerate safe deployment of humanoid robots [[Blog](https://blogs.nvidia.com/blog/gtc-2026-news/)] [[Robotics 24/7](https://www.robotics247.com/article/nvidia-gtc-2026-texas-instruments-nvidia-partner-to-accelerate-safe-deployment-of-humanoids)] |
 | **2026-03-12** | **Tesla** unveils third-generation Optimus at AWE 2026 in Shanghai, featuring 22-DoF hands and 8-hour battery life [[News](https://chinaroboticsdaily.com/tesla-optimus-gen-3-awe-2026/)] |
 | **2026-01-27** | **Figure AI** introduces Helix 02: Full-Body Autonomy, achieving 67 consecutive hours of autonomous work [[Website](https://www.figure.ai/news/helix-02)] |
@@ -383,6 +384,7 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 | [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) | Robot model descriptions |
 | [awesome-legged-locomotion](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) | Legged locomotion learning |
 | [awesome-humanoid-manipulation](https://github.com/Tsunami-kun/awesome-humanoid-manipulation) | Humanoid manipulation resources |
+| [SpecsLib Humanoid Hardware Database](https://specslib.com/en/humanoids/) | Source-verified hardware specifications and comparison matrix for 45+ humanoid robots |
 
 <p align="right">(<a href="#contents">back to top</a>)</p>
 
