@@ -44,6 +44,7 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 | Upkie | Tast's Robots | [URDF](https://github.com/tasts-robots/upkie_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Hector | [USC DRCL](https://sites.usc.edu/quann/robots/) | [URDF](https://github.com/DRCL-USC/Hector_Simulation) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | SA01 | [EngineAI](https://www.engineai.com.cn/) | [URDF & MJCF](https://github.com/engineai-robotics/engineai_legged_gym) | — | ✔️ | ✔️ | ✔️ |
+| TRON1 | [LimX Dynamics](https://www.limxdynamics.com/en) | [URDF, Xacro & MJCF](https://github.com/limxdynamics/tron1-robot-description), [USD](https://github.com/limxdynamics/tron1-rl-isaaclab/tree/main/exts/bipedal_locomotion/bipedal_locomotion/assets/usd) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 
 ### Humanoids
 
@@ -65,6 +66,8 @@ Given the similarities between the locomotion of humanoid robots and bipedal rob
 | H1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description), [USD](https://github.com/unitreerobotics/unitree_model/tree/main/H1/usd) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | G1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | H1-2 (preview) | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_rl_gym/tree/main/resources/robots/h1_2) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Oli | [LimX Dynamics](https://www.limxdynamics.com/en) | [URDF, MJCF & USD](https://github.com/limxdynamics/humanoid-description/tree/master/HU_D04_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Luna | [LimX Dynamics](https://www.limxdynamics.com/en) | [URDF, MJCF & USD](https://github.com/limxdynamics/luna-description/tree/main/HU_L04_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 
 <p align="right">(<a href="#contents">back to top</a>)</p>
 
